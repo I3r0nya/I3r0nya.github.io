@@ -4,8 +4,8 @@
 
 ## 课程
 
-* [除了校内课程，还需要学什么？](ke-cheng/chu-le-xiao-nei-ke-cheng-huan-xu-yao-xue-shi-mo.md)
 * [校内课程](ke-cheng/xiao-nei-ke-cheng.md)
+* [除了校内课程，还需要学什么？](ke-cheng/chu-le-xiao-nei-ke-cheng-huan-xu-yao-xue-shi-mo.md)
 
 ## 就业
 
