@@ -1,6 +1,6 @@
 # Table of contents
 
-* [北理网安生存指南](README.md)
+* [北理网安本科生存指北](README.md)
 
 ## 课程
 
