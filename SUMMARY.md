@@ -6,7 +6,9 @@
 
 * [需要学很多编程吗？](ke-cheng/xu-yao-xue-hen-duo-bian-cheng-ma.md)
 * [校内课程](ke-cheng/xiao-nei-ke-cheng.md)
-* [除了校内课程，还需要学什么？](ke-cheng/chu-le-xiao-nei-ke-cheng-huan-xu-yao-xue-shi-mo.md)
+* [除了校内课程，还需要学什么？](ke-cheng/chu-le-xiao-nei-ke-cheng-huan-xu-yao-xue-shi-mo/README.md)
+  * [CTF](ke-cheng/chu-le-xiao-nei-ke-cheng-huan-xu-yao-xue-shi-mo/ctf.md)
+  * [二进制方向](ke-cheng/chu-le-xiao-nei-ke-cheng-huan-xu-yao-xue-shi-mo/er-jin-zhi-fang-xiang.md)
 
 ## 就业
 
